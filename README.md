@@ -11,6 +11,9 @@ Before beginning the testing process, ensure the following setup:<br>
 •	Device Requirements: A desktop or mobile device with an up-to-date browser (Google Chrome, Firefox, Safari, etc.)<br>
 •	Internet Connection: A stable connection to access the website.<br>
 •	Access to Swag Labs Website: Open https://www.saucedemo.com/<br>
+<h2><b>Test Scenarios</b></h2>
+- [Test scenarios and Testcases] (https://docs.google.com/spreadsheets/d/1405EhxO8uqAl2c3EFOKyIrS2Cp8gGF_z7b16-x7E6PU/edit?usp=drive_link)
+
 
 
 
