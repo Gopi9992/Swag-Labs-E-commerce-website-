@@ -1,1 +1,1 @@
-# Typing-speed-calculator
+- [Test scenarios and Testcases](https://docs.google.com/spreadsheets/d/1405EhxO8uqAl2c3EFOKyIrS2Cp8gGF_z7b16-x7E6PU/edit?usp=drive_link)
