@@ -11,8 +11,10 @@ Before beginning the testing process, ensure the following setup:<br>
 •	Device Requirements: A desktop or mobile device with an up-to-date browser (Google Chrome, Firefox, Safari, etc.)<br>
 •	Internet Connection: A stable connection to access the website.<br>
 •	Access to Swag Labs Website: Open https://www.saucedemo.com/<br>
-<h2><b>Test Scenarios</b></h2>
+<h2><b>Test Scenarios and Testcases</b></h2>
 Link:- ( https://docs.google.com/spreadsheets/d/1405EhxO8uqAl2c3EFOKyIrS2Cp8gGF_z7b16-x7E6PU/edit?usp=drive_link )<br>
+<h2><b>Bugsheet</b></h2>
+Link:- ( https://docs.google.com/spreadsheets/d/1B3U4XjRidRlBg9U5ad2LeMKg1ALPn2zWutIUuIpTmSY/edit?usp=drive_link )<br>
 <h2><b>Conclusion</b></h2>
 Testing process will help ensure that the website delivers user-friendly experience. By following test scenarios and providing clear issue reports, we can maintain a high-quality standard for this mock e-commerce platform.<br>
 
