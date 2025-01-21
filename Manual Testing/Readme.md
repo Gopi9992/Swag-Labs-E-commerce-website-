@@ -1,2 +1,2 @@
 - [Test scenarios and Testcases](https://docs.google.com/spreadsheets/d/1405EhxO8uqAl2c3EFOKyIrS2Cp8gGF_z7b16-x7E6PU/edit?usp=drive_link)
-- [Bugsheet for Swag labs](https://docs.google.com/spreadsheets/d/1B3U4XjRidRlBg9U5ad2LeMKg1ALPn2zWutIUuIpTmSY/edit?usp=drive_link)
+- [Bug Report for Swag labs](https://docs.google.com/spreadsheets/d/1B3U4XjRidRlBg9U5ad2LeMKg1ALPn2zWutIUuIpTmSY/edit?usp=drive_link)
